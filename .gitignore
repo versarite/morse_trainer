@@ -1,0 +1,22 @@
+# --- Build output (both versions) ---
+*.exe
+*.o
+*.obj
+*.dbg
+
+# --- Free Pascal / Lazarus build artifacts ---
+lib/
+*.ppu
+*.a
+*.so
+*.dylib
+*.compiled
+*.or
+backup/
+*.bak
+*~
+
+# --- Editor / OS clutter ---
+.DS_Store
+Thumbs.db
+*.swp
